@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ebeixeeyei.penetrationtest.com/sitemap.xml
